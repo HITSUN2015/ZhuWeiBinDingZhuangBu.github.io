@@ -1,3 +1,3 @@
 #### home page
 
-It's my blog([http://blog.ixxoo.me](http://blog.ixxoo.me))
+It's my blog([https://hitsun2015.github.io/ZhuWeiBinDingZhuangBu.github.io](https://hitsun2015.github.io/ZhuWeiBinDingZhuangBu.github.io))
